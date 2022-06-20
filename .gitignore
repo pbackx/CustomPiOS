@@ -2,3 +2,8 @@ src/config.local
 src/image/*.zip
 src/image/*.xz
 **/key.json
+
+.idea
+TestDistro/src/image/*.xz
+TestDistro/src/workspace
+*.log
